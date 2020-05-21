@@ -1,4 +1,7 @@
 # World Map Clock
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8d7ca13e-25fe-43f1-a0fa-dfa05171e72c/daxdx19-7aac85f8-8c03-48d3-86b9-cf7029a3e2de.png/v1/fill/w_1188,h_668,q_80,strp/world_map_clock_0_2_by_princethezeroth_daxdx19-fullview.jpg" width=1024px% title="World Map Clock Preview"/>
+
 The best way to see the time anywhere around the world in a glance.
 
 currently available for Rainmeter here:
